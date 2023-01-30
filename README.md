@@ -24,7 +24,7 @@ Mobile View.
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-product-preview-card-n44cgl5fBR)
 - Live Site URL: [Netlify](https://product-preview-card-alex.netlify.app/)
 
 ## My process
