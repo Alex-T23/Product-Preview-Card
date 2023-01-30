@@ -25,7 +25,7 @@ Mobile View.
 ### Links
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://product-preview-card-alex.netlify.app/)
 
 ## My process
 
